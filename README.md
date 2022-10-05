@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mettaberliana
 - 👀 I’m interested in IOS Developer and Machine Learning
 - 🌱 I’m currently learning Swift Programming Language
-- 💞️ I’m looking to collaborate on ...
 - - 📫 How to reach me mettaliem02@gmail.com
 
 <!---
