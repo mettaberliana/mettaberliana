@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mettaberliana
 - 👀 I’m interested in IOS Development and Machine Learning
 - 🌱 I’m currently learning Swift Programming Language
-- - 📫 How to reach me mettaliem02@gmail.com
+- 📫 How to reach me mettaliem02@gmail.com
+
 
 <!---
 mettaberliana/mettaberliana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
